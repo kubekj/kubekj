@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kubekj
 - 👀 I’m interested in developing web apps/apis
-- 🌱 I’m big fan of Web Development with .NET
+- 🌱 Currently writing final thesis app with .NET 7 and Next.js
 - 💞️ I’m looking to collaborate on what you offer :)
 - 📫 How to reach me - kuba.jedraszka@gmail.com
 
