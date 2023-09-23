@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kubekj
 - 👀 I’m keen on developing web apps, most of my projects were done with .NET
-- 🌱 Currently learning node.js and polishing my understanding of javascript
+- 🌱 Currently learning ML and polishing my understanding of the basics around it
 - 💞️ I’m looking to collaborate on what you offer :)
 - 📫 How to reach me - kuba.jedraszka@gmail.com
 
