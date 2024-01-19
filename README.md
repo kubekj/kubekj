@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kubekj
-- 👀 I’m keen on developing web apps, most of my projects were done with .NET
-- 🌱 Currently learning ML and polishing my understanding of the basics around it
-- 💞️ I’m looking to collaborate on what you offer :)
+- 👀 I’m keen on developing web apps, mostly in asp.net but always open to various technologies
+- 🌱 Currently studying AI and polishing my skills within that field
+- 💞️ I’m always open to collaborate and create value
 - 📫 How to reach me - kuba.jedraszka@gmail.com
 
 <!---
