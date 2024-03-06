@@ -8,7 +8,7 @@
 </p>
 
 - 🛠️ Not a stranger to `dotnet` `python` `sql` `javascript` `css` `html`
-  - "Mother tongue": `C#`
+  - "Native Language": `C#`
 - 🌱 Currently studying Human-Centered Artificial Intelligence
   - focused on the infrastructural part of AI (Data Engineering | MLOps)
 - 👨🏼‍🍳 I'm keen on designing and developing software, mainly from the `backend` side.
