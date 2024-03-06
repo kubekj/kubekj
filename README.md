@@ -1,5 +1,5 @@
 ### Hey, I’m @kubekj 👋
-**Software Engineer undefined by the technology**
+**Software engineer not limited by the technology at hand**
 
 <p>
   Student Assistant @ <a href="https://www.gn.com" title="GN Group">GN Group</a>
