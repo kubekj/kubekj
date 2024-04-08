@@ -11,7 +11,7 @@ CS Graduate @ <a href="https://pja.edu.pl/en/" title="PJAIT">PJAIT</a>
 
 - 🛠️ Not a stranger to `dotnet` `python` `sql` `javascript` `css` `html`
   - Native Language: `C#`
-  - Native Field: `Web dev`
+  - Native Field: `backend`
 - 🌱 Currently studying Human-Centered Artificial Intelligence
   - Interested mainly in the infrastructural part of `AI` (`Data Engineering` | `MLOps`).
   - Taking courses covering a wide range of topics from `traditional AI` to more advanced `Deep Learning` techniques.
