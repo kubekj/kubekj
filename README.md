@@ -4,9 +4,9 @@
 <p>
   Student Assistant @ <a href="https://www.gn.com" title="GN Group">GN Group</a>
 <br/>
-  MSc in AI @ <a href="https://www.dtu.dk/english/" title="DTU">DTU</a>
+  MSc in Artificial Intelligence @ <a href="https://www.dtu.dk/english/" title="DTU">DTU</a>
 <br/>
-  BEng in CS @ <a href="https://pja.edu.pl/en/" title="PJAIT">PJAIT</a>
+  BEng in Computer Science @ <a href="https://pja.edu.pl/en/" title="PJAIT">PJAIT</a>
 </p>
 
 - 🛠️ Not a stranger to `dotnet` `python` `sql` `javascript` `css` `html`
