@@ -13,8 +13,8 @@
   - Favourite Language: `C#`
   - Current Field: `DevOps`
 - 🌱 Currently studying Human-Centered Artificial Intelligence
-  - Interested mainly in the infrastructural part of `AI` (`DevOps` | `MLOps`).
-  - Taking courses covering a wide range of topics from `traditional AI` to more advanced `Deep Learning` techniques.
+  - Interested mainly in the infrastructural part of `AI` (`Data Engineering` | `MLOps`).
+  - Taking courses covering a wide range of topics from `Responsible AI` to more advanced `Deep Learning` techniques.
 - 👨🏼‍🍳 I'm keen on designing and developing software, primarily from the `backend` side.
   - Familiar with `CI/CD`, `DevOps` and `Agile Techniques`  
   - Can also handle `frontend` and `UX|UI` 
