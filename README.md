@@ -2,7 +2,7 @@
 **Software engineer not limited by the technology at hand**
 
 <p>
-  DevOps @ <a href="https://www.gn.com" title="GN Group">GN Group</a>
+  Student Assistant @ <a href="https://www.gn.com" title="GN Group">GN Group</a>
 <br/>
   MSc in Artificial Intelligence @ <a href="https://www.dtu.dk/english/" title="DTU">DTU</a>
 <br/>
