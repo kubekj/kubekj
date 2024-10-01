@@ -10,14 +10,14 @@
 </p>
 
 - 🛠️ Not a stranger to `dotnet` `python` `sql` `javascript`
-  - Favourite Language: `C#`
+  - Favourite Languages: `C#` and `python`
   - Current Field: `DevOps`
 - 🌱 Currently studying Human-Centered Artificial Intelligence
-  - Interested mainly in the infrastructural part of `AI` (`Data Engineering` | `MLOps`).
+  - Interested mainly in the infrastructural part of `AI` - `MLOps`.
   - Taking courses covering a wide range of topics from `Search-driven AI` to more advanced `Deep Learning` techniques.
 - 👨🏼‍🍳 I'm keen on designing and developing software, primarily from the `backend` side.
   - Familiar with `CI/CD`, `DevOps` and `Agile Techniques`  
-  - Can also handle `frontend` and `UX|UI` 
+  - Can also handle `frontend` with `UX|UI` 
 - 📫 How to reach me - kuba.jedraszka@gmail.com
 
 <!---
