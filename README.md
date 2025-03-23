@@ -1,5 +1,4 @@
 ### Hey, I’m @kubekj 👋
-**Software engineer not limited by the technology at hand**
 
 <p>
   Student Assistant @ <a href="https://www.gn.com" title="GN Group">GN Group</a>
@@ -17,8 +16,8 @@
   - Took courses covering a wide range of topics from `Search-driven AI` to more advanced `Deep Learning` techniques.
 - 👨🏼‍🍳 I'm keen on designing and developing software, primarily from the `backend` side.
   - Familiar with `CI/CD`, `DevOps` and `Agile Techniques`  
-  - Can also handle `frontend` with `UX|UI` 
-- 📫 How to reach me - kuba.jedraszka@gmail.com
+  - Can also handle `frontend` when needed 
+- 📫 How to reach me - kuba.jedraszka@proton.me
 
 <!---
 kubekj/kubekj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
