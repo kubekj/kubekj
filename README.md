@@ -3,21 +3,24 @@
 <p>
   Student Assistant @ <a href="https://www.gn.com" title="GN Group">GN Group</a>
 <br/>
-  MSc in Artificial Intelligence @ <a href="https://www.dtu.dk/english/" title="DTU">DTU</a>
+  MSc in Human-Centered Artificial Intelligence @ <a href="https://www.dtu.dk/english/" title="DTU">DTU</a>
 <br/>
   BEng in Computer Science @ <a href="https://pja.edu.pl/en/" title="PJAIT">PJAIT</a>
 </p>
 
-- 🛠️ Not a stranger to `dotnet` `python` `sql` `javascript`
+🛠️ Not a stranger to `dotnet` `python` `sql` `javascript`
   - Favourite Languages: `C#` and `python`
-  - Current Field: `DevOps`
-- 🌱 Currently studying Human-Centered Artificial Intelligence
-  - Interested mainly in the infrastructural part of `AI` - `MLOps`.
-  - Took courses covering a wide range of topics from `Search-driven AI` to more advanced `Deep Learning` techniques.
-- 👨🏼‍🍳 I'm keen on designing and developing software, primarily from the `backend` side.
-  - Familiar with `CI/CD`, `DevOps` and `Agile Techniques`  
-  - Can also handle `frontend` when needed 
-- 📫 How to reach me - kuba.jedraszka@proton.me
+  - Current Field: `Software Engineering`
+
+💻 Passionate about `DevOps` and `Software Engineering`, with a strong fondness for `MLOps`
+  - Specialised in the infrastructural and backend aspects of applications & intelligent systems
+  - Aspiring Solutions Architect 💪
+
+👨🏼‍🍳 I'm keen on designing and developing software, primarily from the `backend` side
+  - Experienced with modern development practices like `CI/CD`, `DevOps` and `Agile Techniques`  
+  - Capable of delivering functional and responsive `frontend` solutions when the project calls for it
+
+📫 How to reach me - kuba.jedraszka@proton.me
 
 <!---
 kubekj/kubekj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
