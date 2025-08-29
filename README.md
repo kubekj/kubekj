@@ -1,7 +1,7 @@
 ### Hey, I’m @kubekj 👋
 
 <p>
-  Student Assistant @ <a href="https://www.gn.com" title="GN Group">GN Group</a>
+  Software Engineer @ <a href="https://www.milestonesys.com/" title="Milestone Systems">Milestone Systems</a>
 <br/>
   MSc in Artificial Intelligence @ <a href="https://www.dtu.dk/english/" title="DTU">DTU</a>
 <br/>
