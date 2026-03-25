@@ -1,7 +1,7 @@
 ### Hey, I’m @kubekj 👋
 
 <p>
-  Software Engineer @ <a href="https://www.milestonesys.com/" title="Milestone Systems">Milestone Systems</a>
+  DevOps Engineer @ <a href="https://www.gn.com/" title="GN Group">GN</a>
 <br/>
   MSc in Artificial Intelligence @ <a href="https://www.dtu.dk/english/" title="DTU">DTU</a>
 <br/>
@@ -10,7 +10,7 @@
 
 🛠️ Not a stranger to `dotnet` `python` `sql` `javascript`
   - Favourite Languages: `C#` and `python`
-  - Current Field: `Software Engineering`
+  - Current Field: `DevOps`
 
 💻 Passionate about `DevOps` and `Software Engineering`, with a strong fondness for `MLOps`
   - Specialised in the infrastructural and backend aspects of applications & intelligent systems
