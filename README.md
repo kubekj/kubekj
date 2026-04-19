@@ -14,7 +14,7 @@
 
 💻 Passionate about `DevOps` and `Software Engineering`, with a strong fondness for `MLOps`
   - Specialised in the infrastructural and backend aspects of applications & intelligent systems
-  - Aspiring Solutions Architect 💪
+  - Open to going more into a Product Owner/Engineer role
 
 👨🏼‍🍳 I'm keen on designing and developing software, primarily from the `backend` side
   - Experienced with modern development practices like `CI/CD`, `DevOps` and `Agile Techniques`  
